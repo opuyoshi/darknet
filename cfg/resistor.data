@@ -1,0 +1,5 @@
+classes=1
+train = data/resistor/train.txt
+valid = data/resistor/test.txt
+names = cfg/resistor.names
+backup = data/resistor/backup

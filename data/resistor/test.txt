@@ -1,0 +1,13 @@
+data/resistor000005.jpg
+data/resistor000015.jpg
+data/resistor000027.jpg
+data/resistor000039.jpg
+data/resistor000047.jpg
+data/resistor000065.jpg
+data/resistor000077.jpg
+data/resistor000098.jpg
+data/resistor000115.jpg
+data/resistorr10.jpg
+data/resistorr15.jpg
+data/resistorr2.jpg
+data/resistorr5.jpg
