@@ -23,7 +23,7 @@ for pathAndFilename in glob.iglob(os.path.join(current_dir, '*.jpg')):
 
     if counter == index_test:
         counter = 1
-        file_text.write(path_data + title + '.jpg' + '\n')
+        file_text.write(path_data + "/" + title + '.jpg' + '\n')
     else:
-        file_train.write(path_data + title + '.jpg' + '\n')
+        file_train.write(path_data + "/" + title + '.jpg' + '\n')
         counter = counter + 1
