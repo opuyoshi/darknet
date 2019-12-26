@@ -10,5 +10,8 @@ data/resistor/000112.jpg
 data/resistor/r0.jpg
 data/resistor/r13.jpg
 data/resistor/r18.jpg
-data/resistor/r3.jpg
-data/resistor/r8.jpg
+data/resistor/r22.jpg
+data/resistor/r27.jpg
+data/resistor/r32.jpg
+data/resistor/r4.jpg
+data/resistor/r9.jpg
